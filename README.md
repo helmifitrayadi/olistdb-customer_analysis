@@ -37,10 +37,10 @@ Tujuannya adalah untuk memahami karakteristik pelanggan, mengidentifikasi tren p
 - Python / Google Colab
 
 **Libraries:**
-sqlite3
-pandas
-seaborn
-matplotlib
+- sqlite3
+- pandas
+- seaborn
+- matplotlib
 
 ---
 
