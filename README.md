@@ -1,11 +1,11 @@
-# 📦 Unlocking OLIST Potential: Insights from Customer, Sales, and Review Data
+# Unlocking OLIST Potential: Insights from Customer, Sales, and Review Data
 
 Final Project – Data Analyst Bootcamp (Batch 28) by Growia  
 Author: Helmi Fitrayadi Hasrul
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Olist adalah platform e-commerce terkemuka di Brazil. Dalam project ini, saya menganalisis dataset komprehensif dari Olist yang mencakup data pelanggan, produk, transaksi, metode pembayaran, dan ulasan.
 
@@ -13,7 +13,7 @@ Tujuannya adalah untuk memahami karakteristik pelanggan, mengidentifikasi tren p
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. **Customer Segmentation**: Memahami profil dan perilaku pelanggan Olist.
 2. **Sales Analysis**: Mengetahui tren dan pola penjualan produk.
@@ -21,7 +21,7 @@ Tujuannya adalah untuk memahami karakteristik pelanggan, mengidentifikasi tren p
 
 ---
 
-## 📁 Dataset Description
+## Dataset Description
 
 - **Sumber:** Disediakan oleh Growia (Data Olist dari Brazil)
 - **Jumlah baris:** ±119.143
@@ -31,50 +31,54 @@ Tujuannya adalah untuk memahami karakteristik pelanggan, mengidentifikasi tren p
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools
 
-- **Python**: `pandas`, `matplotlib`, `seaborn`, `numpy`
-- **SQL**: Digunakan untuk query awal
-- **Tableau**: Dashboard visualisasi interaktif
-- **Jupyter Notebook**
+**Languages:**
+- Python / Google Colab
+
+**Libraries:**
+sqlite3
+pandas
+seaborn
+matplotlib
 
 ---
 
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
-### 🔹 Customer Insights
-- Kota dengan pelanggan terbanyak: **São Paulo (14.216)** dan **Rio de Janeiro (6.200)**
+### Customer Insights
+- Kota dengan pelanggan terbanyak: **Sao Paulo (14.216)** dan **Rio de Janeiro (6.200)**
 - Sebagian besar pelanggan tergolong jarang bertransaksi (segment “little”)
 
-### 🔹 Product & Payment
+### Product & Payment
 - Produk paling populer: `bed_bath_table`
 - Metode pembayaran terbanyak: **Credit Card**
 
-### 🔹 Customer Satisfaction
+### Customer Satisfaction
 - 78.7% pelanggan memberikan skor ulasan **5**
 - Skor tertinggi mendominasi, menunjukkan kepuasan yang tinggi
 
-### 🔹 Time Series Analysis
+### Time Series Analysis
 - Penjualan meningkat dari 2016–2018, dengan puncaknya di bulan **November**
 - Hari dengan pesanan tertinggi: **Senin dan Selasa**
 
 ---
 
-## 💡 Key Insights & Recommendations
+## Key Insights & Recommendations
 
-### 📍 Customer & Market Focus
+### Customer & Market Focus
 - Fokus pemasaran di São Paulo dan Rio de Janeiro
 - Bangun program loyalitas untuk meningkatkan frekuensi transaksi
 
-### 📍 Product & Payment Strategy
+### Product & Payment Strategy
 - Pastikan stok produk populer selalu tersedia
 - Pertahankan kerjasama dengan penyedia kartu kredit
 
-### 📍 Customer Experience
+### Customer Experience
 - Monitor dan responsif terhadap review pelanggan
 - Tingkatkan layanan untuk menjaga loyalitas
 
-### 📍 Operational Optimization
+### Operational Optimization
 - Optimalkan kampanye marketing di hari-hari puncak penjualan
 - Rancang promosi khusus di bulan dengan performa rendah
 
